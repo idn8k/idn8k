@@ -4,7 +4,7 @@
 I'm Idan, a Berlin-based Web Developer
 
 ### Languages
-![js icon](./JS-Icons.svg)![js icon](./JS-Icons.svg)![js icon](./JS-Icons.svg)![js icon](./JS-Icons.svg)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts)](https://skillicons.dev)
 
 
 ### Contact
