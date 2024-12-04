@@ -4,7 +4,7 @@
 I'm Idan, a Berlin-based Web Developer
 
 ### Languages
-[Idan Benik](./JS Icons.svg)
+![js icon](./JS-Icons.svg)![js icon](./JS-Icons.svg)![js icon](./JS-Icons.svg)![js icon](./JS-Icons.svg)
 
 
 ### Contact
