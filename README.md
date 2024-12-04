@@ -11,6 +11,6 @@ I'm Idan, a Berlin-based Web Developer
 
 ### Contact
 
-- [Idan Benik](https://www.example.com)
+- [Homepage](https://www.example.com)
 - On Discord [@IdanBenik](https://www.example.com)
 
