@@ -3,8 +3,9 @@
 ### 👋 
 I'm Idan, a Berlin-based Web Developer
 
-### Skills
-- Markdown, for now 🙃
+### Languages
+[Idan Benik](./JS Icons.svg)
+
 
 ### Contact
 
