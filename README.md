@@ -1,6 +1,6 @@
 
 ###
-I'm Idan, a Berlin-based Web Developer
+I'm Idan, a Berlin-based Developer
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs)](https://skillicons.dev)
